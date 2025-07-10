@@ -1,0 +1,5 @@
+
+{
+  "name": "AI Bar Exam Answer Ranker",
+  "description": "An interface for legal professionals to review and rank AI-generated answers to bar exam questions against known good answers."
+}
